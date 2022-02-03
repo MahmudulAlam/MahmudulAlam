@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="justify">
-  I am Mohammad Mahmudul Alam, Ph.D. candidate in Computer Science at UMBC. My research interests include theories and applications of machine learning and always loves to work on challenging problems. Currently, I am working as a Graduate Research Assistant in the <a href="https://coral-lab.umbc.edu" target="_blank">CORAL</a> lab at UMBC where I am advised by <a href="https://www.csee.umbc.edu/people/faculty/tim-oates/" target="_blank">Professor Dr. Tim Oates</a> and co-advised by <a href="https://www.edwardraff.com/index.php" target="_blank">Dr. Edward Raff</a>.
+  I am <a href="https://mahmudulalam.github.io">Mohammad Mahmudul Alam</a>, Ph.D. candidate in Computer Science at UMBC. My research interests include theories and applications of machine learning and always loves to work on challenging problems. Currently, I am working as a Graduate Research Assistant in the <a href="https://coral-lab.umbc.edu" target="_blank">CORAL</a> lab at UMBC where I am advised by <a href="https://www.csee.umbc.edu/people/faculty/tim-oates/" target="_blank">Professor Dr. Tim Oates</a> and co-advised by <a href="https://www.edwardraff.com/index.php" target="_blank">Dr. Edward Raff</a>.
 </p>
 
 <div align="center" vertical-align="middle">
