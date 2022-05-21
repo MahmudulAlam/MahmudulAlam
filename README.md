@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MahmudulAlam&label=profile+views&color=brightgreen)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4500&vCenter=true&width=200&height=20&lines=%3Cmahmudul%2Falam%3E)](https://git.io/typing-svg)
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4500&vCenter=true&width=200&height=20&lines=%3Cmahmudul%2Falam%3E)](https://git.io/typing-svg)
 <p align="justify">
   I am <a href="https://mahmudulalam.github.io">Mohammad Mahmudul Alam</a>, Ph.D. candidate in Computer Science at UMBC. My research interests include theories and applications of machine learning and always loves to work on challenging problems. Currently, I am working as a Graduate Research Assistant in the <a href="https://coral-lab.umbc.edu" target="_blank">CORAL</a> lab at UMBC where I am advised by <a href="https://www.csee.umbc.edu/people/faculty/tim-oates/" target="_blank">Professor Dr. Tim Oates</a> and co-advised by <a href="https://www.edwardraff.com/index.php" target="_blank">Dr. Edward Raff</a>.
 </p>
