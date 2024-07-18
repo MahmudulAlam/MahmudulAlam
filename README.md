@@ -30,9 +30,11 @@
     </a>
 </div> -->
 
+<!--
 <div align="center" vertical-align="middle">
     <a href="https://github.com/MahmudulAlam" targer="_blank"> 
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=MahmudulAlam&show_icons=true&theme=tokyonight&disable_animations=false"> &nbsp;
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulAlam&layout=compact&theme=tokyonight&langs_count=6&hide=ShaderLab"> 
     </a>
 </div>
+-->
