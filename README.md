@@ -3,13 +3,13 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4500&vCenter=true&width=200&height=20&lines=%3Cmahmudul%2Falam%3E)](https://git.io/typing-svg)
 <p align="justify">
-  I am <a href="https://mahmudulalam.github.io">Mohammad Mahmudul Alam</a>, Ph.D. candidate in Computer Science at UMBC. My ongoing research involves neuro-symbolic representations and their applications to deep learning. Currently, I am working as a Graduate Research Assistant in the <a href="https://coral-lab.umbc.edu" target="_blank">CORAL</a> lab at UMBC where I am advised by <a href="https://www.csee.umbc.edu/people/faculty/tim-oates/" target="_blank">Professor Dr. Tim Oates</a> and co-advised by <a href="https://www.edwardraff.com/index.php" target="_blank">Dr. Edward Raff</a>.
+  I am <a href="https://mahmudulalam.github.io/">Dr. Mohammad Mahmudul Alam</a>, a deep learning specialist with over six years of hands-on experience, including internships at Amazon Web Services (AWS) and Analog Devices Inc. (ADI). I have a strong track record of publications in prestigious conferences such as NeurIPS, ICML, AISTATS, AAAI, KDD, and CVPR. I earned my Ph.D. in Computer Science from the University of Maryland, Baltimore County (UMBC), where I was advised by <a href="https://www.csee.umbc.edu/people/faculty/tim-oates/" target="_blank">Dr. Tim Oates</a> and <a href="https://www.edwardraff.com/index.php" target="_blank">Dr. Edward Raff</a>.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmudul-alam/"><em>Linked In</em> 🔗</a> &nbsp; &nbsp; &nbsp;
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=9z9HFSEAAAAJ"><em>Google Scholar</em> 📚</a> &nbsp; &nbsp; &nbsp;
-  <a href="https://mahmudulalam.github.io/#contact"><em>Contact Me!</em> 📬</a>
+  <a href="https://mahmudulalam.github.io/#/contact"><em>Contact Me!</em> 📬</a>
 </p>
 
 <!-- <div align="center" vertical-align="middle">
