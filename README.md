@@ -3,7 +3,7 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF4500&vCenter=true&width=200&height=20&lines=%3Cmahmudul%2Falam%3E)](https://git.io/typing-svg)
 <p align="justify">
-  I am <a href="https://mahmudulalam.github.io/">Dr. Mohammad Mahmudul Alam</a>, a deep learning specialist with over six years of hands-on experience, including internships at Amazon Web Services (AWS) and Analog Devices Inc. (ADI). I have a strong track record of publications in prestigious conferences such as NeurIPS, ICML, AISTATS, AAAI, KDD, and CVPR. I earned my Ph.D. in Computer Science from the University of Maryland, Baltimore County (UMBC), where I was advised by <a href="https://www.csee.umbc.edu/people/faculty/tim-oates/" target="_blank">Dr. Tim Oates</a> and <a href="https://www.edwardraff.com/index.php" target="_blank">Dr. Edward Raff</a>.
+  I am a Senior Applied Scientist at Microsoft, working on AI agents for PowerPoint. My work focuses on advancing the quality, reliability, and efficiency of large‑scale AI systems. I hold a PhD in Computer Science and bring experience from both academia and industry research. I am driven by building practical, scalable AI technologies that translate research into real‑world product impact. I have published in prestigious conferences such as NeurIPS, ICML, AISTATS, AAAI, KDD, and CVPR.
 </p>
 
 <p align="center">
