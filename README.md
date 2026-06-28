@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmudul-alam/"><em>Linked In</em> 🔗</a> &nbsp; &nbsp; &nbsp;
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=9z9HFSEAAAAJ"><em>Google Scholar</em> 📚</a> &nbsp; &nbsp; &nbsp;
-  <a href="https://mahmudulalam.github.io/#/contact"><em>Contact Me!</em> 📬</a>
+  <a href="https://mahmudulalam.github.io/contact/"><em>Contact Me!</em> 📬</a>
 </p>
 
 <!-- <div align="center" vertical-align="middle">
